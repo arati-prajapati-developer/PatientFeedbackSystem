@@ -1,0 +1,32 @@
+.main-dv {
+    padding: 20px;
+    box-shadow: 0px 0px 5px #cccfd5;
+    border-radius: 10px;
+}
+.main-dv .main-card{
+    border: 0px;
+}
+.main-dv .card-header {
+    background: #8cf8e4d1;
+    border-bottom: 0px;
+    color: black;
+    font-weight: 700;
+    border-radius: 3px !important;
+}
+.main-dv .card.mb-3.px-1.py-4 {
+    box-shadow: 0px 0px 2px #92989ec4;
+}
+.answer-range {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.answer-range input[type="range"] {
+    flex: 9.8;
+    margin-right: 10px;
+}
+.answer-range output {
+    flex: 0.2;
+    text-align: right;
+    white-space: nowrap;
+}
