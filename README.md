@@ -55,7 +55,7 @@ DB_PASSWORD=<password>
 #### 4. Running the Application
 - Navigate to the application URL in your web browser (e.g., `http://localhost/PatientFeedbackSystem` OR `http://localhost/PatientFeedbackSystem/index.php`).
 #### Title: Patient feedback information form For Patient (User)
-![Neuromodulation](https://github.com/arati-prajapati-developer/PatientFeedbackSystem/assets/175064831/9a059293-7b82-4169-9901-565fca50c5da)
+![Neuromodulation](https://github.com/arati-prajapati-developer/PatientFeedbackSystem/assets/175064831/91976b5a-ce4e-44ca-ad38-af18181b594b)
 
 # Usage
 ## Admin Login
@@ -65,7 +65,7 @@ DB_PASSWORD=<password>
   - Password: Admin@123
 
 #### Title: Admin Login Page
-![Login](https://github.com/arati-prajapati-developer/PatientFeedbackSystem/assets/175064831/35edffe6-c3b9-4953-9eb8-af47f9b33956)
+![Login](https://github.com/arati-prajapati-developer/PatientFeedbackSystem/assets/175064831/1fd54942-60d4-45d8-bc3d-625ad610c678)
 
 ## Admin Dashboard
 - After logging in, you will be redirected to the patient feedback dashboard (`admin.php`).
@@ -75,16 +75,16 @@ DB_PASSWORD=<password>
 - Click on the "Delete" button to remove a patient record.
 
 #### Title: Patient feedback information view page
-![Admin](https://github.com/arati-prajapati-developer/PatientFeedbackSystem/assets/175064831/66c40448-e3c9-4d53-b31c-d960f6f4035a)
+![Admin](https://github.com/arati-prajapati-developer/PatientFeedbackSystem/assets/175064831/81be6a37-dc09-4ffc-9f67-4887198d8065)
 
 #### Title: Patient feedback information read-only mode
-![Edit-Neuromodulation](https://github.com/arati-prajapati-developer/PatientFeedbackSystem/assets/175064831/cdbfc5ae-c74d-4028-a270-bc30f5ae5044)
+![Edit-Neuromodulation](https://github.com/arati-prajapati-developer/PatientFeedbackSystem/assets/175064831/a67a87ad-adaa-490b-8a19-06f06502abb2)
 
 #### Title: Patient feedback information edit mode
-![Update-Neuromodulation](https://github.com/arati-prajapati-developer/PatientFeedbackSystem/assets/175064831/74523083-b37d-4e21-919f-430d1e3abeae)
+![Update-Neuromodulation](https://github.com/arati-prajapati-developer/PatientFeedbackSystem/assets/175064831/bf8bafc2-add5-4ae8-ab2c-222f22d8298d)
 
 #### Title: After Patient feedback information
-![After Update Record Admin](https://github.com/arati-prajapati-developer/PatientFeedbackSystem/assets/175064831/2ee28f3d-e063-406e-beda-e469e0c07923)
+![After Update Record Admin](https://github.com/arati-prajapati-developer/PatientFeedbackSystem/assets/175064831/7d0b7cee-cbf3-4beb-8c1d-842491631cad)
 
 
 ## Logout
